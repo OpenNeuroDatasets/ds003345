@@ -13,5 +13,6 @@
     "ReferencesAndLinks": [
         "https://www.nature.com/articles/s41467-019-09789-4#Abs1",
         "https://academic.oup.com/scan/article/15/4/383/5831854"
-    ]
+    ],
+    "HowToAcknowledge": "As needed, please feel free to cite McDonald et al., 2019 (for computational modeling of behavior) or McDonald et al., 2020 for the fMRI analysis manuscript."
 }
