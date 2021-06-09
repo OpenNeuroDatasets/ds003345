@@ -7,7 +7,7 @@
         "Scott Huettel",
         "John Pearson"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003345.v1.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds003345.v1.0.1",
     "License": "CC0",
     "Acknowledgements": "We are thankful to the staff at Duke\u2019s Brain Imaging Analysis Center (BIAC) for assistance with data collection as well as NIH support (S10 OD 021480) for BIAC\u2019s super computing cluster. The GPU used for this research was donated by the NVIDIA Corporation. We are incredibly grateful to Shariq Iqbal for helpful discussions and key analysis insights. We also thank Dianna Amasino and Sam Dore for early data collection. Research reported in this publication was supported by a BD2K Career Development Award (K01-ES-025442) to J.M.P., an NIMH R01-108627 to S.H., and a National Science Foundation Graduate Research Fellowship under NSF GRFP DGE-1644868 and a Duke Dean\u2019s Graduate Fellowship to K.M.",
     "ReferencesAndLinks": [
